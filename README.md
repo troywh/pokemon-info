@@ -1,1 +1,5 @@
-# pokemon-info
+Pokemon Web App
+=================
+
+By Troy and Halle
+

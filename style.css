@@ -1,0 +1,40 @@
+/* CSS files add styling rules to your content */
+
+html,
+body {
+  background-color: linen;
+}
+
+button {
+  font-size: 170%;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  width: 75%;
+}
+
+#Pikachu {
+  background-color: red;
+}
+
+#Eevee {
+  background-color: orange;
+}
+
+#Squirtle {
+  background-color: yellow;
+}
+
+#Snorlax {
+  background-color: green;
+}
+
+#Charizard {
+  background-color: blue;
+}
+
+#Ditto {
+  background-color: purple;
+}
